@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btnss{
+    height: 90px;
+    width: 90px;
+}
+.yoxla{
+    text-align: center;
+    border: 1px solid purple;
+    width: 50%;
+    font-size: 40px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.btnss i{
+    font-size: 30px;
+    color: red;
+} */
